@@ -42,6 +42,6 @@
 </p>
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <img style="width: 30%; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalghule7&show_icons=true&locale=en&layout=compact" alt="vishalghule7" />
-  <img style="width: 34%; height: auto;" src="https://github-readme-stats.vercel.app/api?username=vishalghule7&show_icons=true&locale=en" alt="vishalghule7" />
-  <img style="width: 36%; height: auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalghule7&" alt="vishalghule7" />
+  <img style="width: 31%; height: auto;" src="https://github-readme-stats.vercel.app/api?username=vishalghule7&show_icons=true&locale=en" alt="vishalghule7" />
+  <img style="width: 33%; height: auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalghule7&" alt="vishalghule7" />
 </div>
