@@ -11,7 +11,7 @@
 
 - 💼 I am currently searching for a job as a Full Stack Developer.
 
-- 🌱 I’m currently learning **Full Stack Web Development (MERN Stack)**
+- 🌱 I’m currently upskilling **Full Stack Web Development (MERN Stack)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vishalghule7?tab=repositories](https://github.com/vishalghule7?tab=repositories)
 
