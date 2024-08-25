@@ -3,7 +3,13 @@
   <img src="https://profile-counter.glitch.me/vishalghule7/count.svg" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Vishal Ghule</h1>
+<h1 align="center">Hi 👋, I'm Vishal Ghule</h1> 
+
+<p align="center">
+  Visitor count<br>
+  <img src="https://api.countapi.xyz/hit/vishalghule7/github-visitor" alt="Visitor Count"/>
+</p>
+
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/46869388/89207039-b899e600-d5d7-11ea-90d0-c894383d35b4.gif">
 
