@@ -5,12 +5,6 @@
 
 <h1 align="center">Hi 👋, I'm Vishal Ghule</h1> 
 
-<p align="">
-  
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvishalghule7&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Visitor Count"/>
-</p>
-
-
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/46869388/89207039-b899e600-d5d7-11ea-90d0-c894383d35b4.gif">
 
