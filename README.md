@@ -1,5 +1,4 @@
 <p align="center">
-  Visitor count<br>
   <img src="https://profile-counter.glitch.me/vishalghule7/count.svg" />
 </p>
 
@@ -10,9 +9,7 @@
 
 - 🎓 I have recently completed my BE in Computer Engineering.
 
-- 💼 I am currently searching for a job as a Full Stack Developer.
-
-- 🌱 I’m currently upskilling **Full Stack Web Development (MERN Stack)**
+- 💼 I am currently looking for a job as a Full Stack Developer.
 
 - 👨‍💻 All of my projects are available at [https://github.com/vishalghule7?tab=repositories](https://github.com/vishalghule7?tab=repositories)
 
