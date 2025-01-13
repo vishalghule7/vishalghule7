@@ -7,9 +7,9 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/46869388/89207039-b899e600-d5d7-11ea-90d0-c894383d35b4.gif">
 
-- 🎓 I have recently completed my BE in Computer Engineering.
+- 🎓 I have done BE in Computer Engineering.
 
-- 💼 I am currently looking for a job as a Full Stack Developer.
+- 💼 I am looking for an opportunity as a Full Stack Developer.
 
 - 👨‍💻 All of my projects are available at [https://github.com/vishalghule7?tab=repositories](https://github.com/vishalghule7?tab=repositories)
 
