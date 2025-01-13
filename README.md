@@ -9,7 +9,7 @@
 
 - 🎓 I have done BE in Computer Engineering.
 
-- 💼 I am looking for an opportunity as a Full Stack Developer.
+- 💼 Looking for an opportunity as a Full Stack Developer.
 
 - 👨‍💻 All of my projects are available at [https://github.com/vishalghule7?tab=repositories](https://github.com/vishalghule7?tab=repositories)
 
