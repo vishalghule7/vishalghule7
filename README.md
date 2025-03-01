@@ -9,7 +9,7 @@
 
 - 🎓 My Portfolio https://vishal-portfolio-jade.vercel.app/.
   
-- 🎓 I have done BE in Computer Engineering.
+- 🎓 Graduate with Bachelor's degree in Computer Engineering.
 
 - 💼 Looking for an opportunity as a Full Stack Developer.
 
